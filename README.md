@@ -4,5 +4,5 @@
 
 ### pendiente
 
-- [mods]()
+- [mods](https://github.com/mardevour/mc-server/blob/main/md/mods.md)
 - [tesorería]()

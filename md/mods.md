@@ -7,6 +7,22 @@
 
 Optimización:
 
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [Ksyxis](https://modrinth.com/mod/ksyxis)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [Krypton](https://modrinth.com/mod/krypton)
+- [Alternate Current](https://modrinth.com/mod/alternate-current)
+- [Phosphor](https://modrinth.com/mod/phosphor)
+- **\***[Embeddium](https://modrinth.com/mod/embeddium)
+- **\***[Rubidium](https://modrinth.com/mod/rubidium)
+- **\***[Embeddium (Rubidium) Extra](https://modrinth.com/mod/rubidium-extra)
+- **\***[Lightspeed](https://modrinth.com/mod/lightspeed)
+- **\***[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- **\***[Entity Culling](https://modrinth.com/mod/entityculling)
+###### *mods cliet side
+
 Generación:
 - [Biones O'Plenty](https://modrinth.com/mod/biomes-o-plenty)
 - [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
