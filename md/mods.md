@@ -1,7 +1,5 @@
 ### mods
 
-#### Modpack propio:
-
 Optimización:
 
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
