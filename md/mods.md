@@ -1,7 +1,4 @@
 ### mods
-#### packs:
-
-- [Cobblemon](https://modrinth.com/modpack/cobblemon-forge)
 
 #### Modpack propio:
 
