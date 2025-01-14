@@ -1,7 +1,6 @@
 ### mods
 
 optimización:
-
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
