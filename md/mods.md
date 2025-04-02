@@ -1,29 +1,5 @@
-## MODS Q ESTAN EN EL SERVER
-
-### mods SOLO client-side
-#### optimización
-- [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options)
-- [Embeddium](https://modrinth.com/mod/embeddium)
-- [Embeddium (Rubidium) Extra](https://modrinth.com/mod/rubidium-extra)
-- [Lightspeed](https://modrinth.com/mod/lightspeed)
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-- [Entity Culling](https://modrinth.com/mod/entityculling)
-
-#### varios
-- [Chat Heads](https://modrinth.com/mod/chat-heads)
-- [Appleskin](https://modrinth.com/mod/appleskin)
-- [Zoom](https://modrinth.com/mod/zume)
-- [JEI](https://modrinth.com/mod/jei)
-- [Jade](https://modrinth.com/mod/jade)
-- [Xaero's minimap](https://modrinth.com/mod/xaeros-minimap) + [Xaeros world map](https://modrinth.com/mod/xaeros-wor- [Simple Voice chat](https://modrinth.com/plugin/simple-voice-chat)
-- [3D skin layers](https://modrinth.com/mod/3dskinlayers)ld-map) o [Journey map](https://modrinth.com/mod/journeymap)
-
-### mods SOLO server-side
-#### optimización
-- [Radon](https://modrinth.com/mod/radon)
-
-### Client Y Server
-#### apis / librerias
+## Mods cliente Y servidor
+#### apis / librerias:
 - [Architectury API](https://modrinth.com/mod/architectury-api) (FTB Chunks)
 - [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) (FTB Chunks)
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) (FTB Chunks)
@@ -40,22 +16,17 @@
 - [Quark](https://modrinth.com/mod/quark) (Integrated Dungeons and Structures)
 - [GottschCore](https://modrinth.com/mod/gottschcore) (Treasure2)
 - [Platform](https://modrinth.com/mod/platform) (CaveBiomeAPI)
-- []()
-- []()
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) ??
 
-#### optimización
+#### optimización:
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Ksyxis](https://modrinth.com/mod/ksyxis)
 - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)	
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
-- []()
-- []()
-- []()
 
-#### contenido
+#### contenido:
 - [Biomes O'Plenty](https://modrinth.com/mod/biomes-o-plenty)
 - [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [Croptopia Additions](https://modrinth.com/mod/croptopia-additions)
@@ -82,7 +53,7 @@
 - [Aquaculture 2](https://modrinth.com/mod/aquaculture)
 - [Treasure2](https://www.curseforge.com/minecraft/mc-mods/treasure2)
 
-#### mecánicas
+#### mecánicas:
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
 - [Waystones](https://modrinth.com/mod/waystones)
 - [Refined storage](https://modrinth.com/mod/refined-storage)
@@ -90,6 +61,29 @@
 - [Corpse](https://modrinth.com/mod/corpse)
 - [XP Tome](https://modrinth.com/mod/xp-tome)
 - [Carry On](https://modrinth.com/mod/carry-on)
+
+## Mods SOLO cliente
+##### ℹ️ técnicamente estos mods son opcionales pero recomendados, al menos los de optimización
+#### optimización
+- [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options)
+- [Embeddium](https://modrinth.com/mod/embeddium)
+- [Embeddium (Rubidium) Extra](https://modrinth.com/mod/rubidium-extra)
+- [Lightspeed](https://modrinth.com/mod/lightspeed)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Entity Culling](https://modrinth.com/mod/entityculling)
+
+#### varios
+- [Chat Heads](https://modrinth.com/mod/chat-heads)
+- [Appleskin](https://modrinth.com/mod/appleskin)
+- [Zoom](https://modrinth.com/mod/zume)
+- [JEI](https://modrinth.com/mod/jei)
+- [Jade](https://modrinth.com/mod/jade)
+- [Journey map](https://modrinth.com/mod/journeymap)
+##### ℹ️ puedes usar Xaero's Minimap en lugar de Journey si quieres pero en en Xaero's no se podrán ver los chunks privados
+
+## Mods SOLO server
+#### optimización
+- [Radon](https://modrinth.com/mod/radon)
 
 ### posibles adiciones:
 create:
@@ -99,10 +93,7 @@ create:
 - [Create Confectionery](https://www.curseforge.com/minecraft/mc-mods/create-confectionery)
 - [Create Recycle Everything](https://www.curseforge.com/minecraft/mc-mods/create-recycle-everything)
 
-
-
-si no funciona revisar:
-- Integrated Dungeons and Structures
+## Otros (mods q no se pueden meter por varias razones y notas para mí)
 
 mods q se quedan fueura:
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) (no disponible en aternos)
@@ -114,3 +105,7 @@ mods q se quedan fueura:
 - [Incendium](https://modrinth.com/datapack/incendium) (no 1.16.5)
 - [Ping wheel](https://modrinth.com/mod/ping-wheel) (no 1.16.5)
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) (no 1.16.5)
+
+si no funciona revisar:
+- Integrated Dungeons and Structures
+
