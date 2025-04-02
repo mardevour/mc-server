@@ -67,7 +67,6 @@
 - [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [Embeddium (Rubidium) Extra](https://modrinth.com/mod/rubidium-extra)
-- [Rubidium](https://modrinth.com/mod/rubidium) (Embeddium (Rubidium) Extra)
 - [Lightspeed](https://modrinth.com/mod/lightspeed)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -77,9 +76,7 @@
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Zoom](https://modrinth.com/mod/zume)
 - [JEI](https://modrinth.com/mod/jei)
-- [Jade](https://modrinth.com/mod/jade)
-- [Journey map](https://modrinth.com/mod/journeymap)
-##### ℹ️ puedes usar Xaero's Minimap en lugar de Journey si quieres pero en en Xaero's no se podrán ver los chunks privados
+- [Amber](https://modrinth.com/mod/amber-jade)
 
 ### posibles adiciones:
 create:
