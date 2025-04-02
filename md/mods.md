@@ -100,7 +100,3 @@ mods q se quedan fueura:
 - [Incendium](https://modrinth.com/datapack/incendium) (no 1.16.5)
 - [Ping wheel](https://modrinth.com/mod/ping-wheel) (no 1.16.5)
 - [Applied Energistics 2](https://modrinth.com/mod/ae2) (no 1.16.5)
-
-si no funciona revisar:
-- Integrated Dungeons and Structures
-
