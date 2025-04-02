@@ -16,7 +16,6 @@
 - [Quark](https://modrinth.com/mod/quark) (Integrated Dungeons and Structures)
 - [GottschCore](https://modrinth.com/mod/gottschcore) (Treasure2)
 - [Platform](https://modrinth.com/mod/platform) (CaveBiomeAPI)
-<!-- - [Cloth Config API](https://modrinth.com/mod/cloth-config) ?? -->
 
 #### optimización:
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
@@ -61,11 +60,14 @@
 - [Carry On](https://modrinth.com/mod/carry-on)
 
 ## Mods SOLO cliente
-##### ℹ️ técnicamente estos mods son opcionales pero recomendados, al menos los de optimización
+##### ℹ️ técnicamente estos mods son opcionales pero recomendados, al menos los de optimización, los cuales ya están incluidos en [el pack](https://www.mediafire.com/file/dzcve355v5wf3a9/mods.zip/file)
+#### apis / librerias:
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) (Dynamic FPS)
 #### optimización
 - [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [Embeddium (Rubidium) Extra](https://modrinth.com/mod/rubidium-extra)
+- [Rubidium](https://modrinth.com/mod/rubidium) (Embeddium (Rubidium) Extra)
 - [Lightspeed](https://modrinth.com/mod/lightspeed)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
