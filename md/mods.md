@@ -20,7 +20,6 @@
 
 #### optimización:
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [ModernFix](https://modrinth.com/mod/modernfix)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Ksyxis](https://modrinth.com/mod/ksyxis)
 - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)	
@@ -33,14 +32,13 @@
 - [Botania](https://modrinth.com/mod/botania)
 - [Integrated Dungeons and Structures](https://modrinth.com/mod/idas/gallery)
 - [Caves & Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/vanilla-backport) (Integrated Dungeons and Structures)
-- [Integrated Dungeons and Structures](https://modrinth.com/mod/idas/gallery)
 - [Create](https://modrinth.com/mod/create)
 - [Stalwart Dungeons](https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons)
 - [Dungeons Plus](https://modrinth.com/mod/dungeons-plus)
 - [Structures Plus II](https://modrinth.com/mod/structures-plus-ii)
 - [Dungeons Enhanced](https://modrinth.com/mod/dungeons-enhanced/gallery)
 - [Goblins & Dungeons](https://modrinth.com/mod/goblins-dungeons/gallery)
-- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Supplementaries](https://modrinth.com/mod/supplementaries) (Integrated Dungeons and Structures)
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
 - [Macaw's Biomes O' Plenty](https://modrinth.com/mod/macaws-biomes-o-plenty)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) (Macaw's Biomes O' Plenty)
@@ -81,10 +79,6 @@
 - [Journey map](https://modrinth.com/mod/journeymap)
 ##### ℹ️ puedes usar Xaero's Minimap en lugar de Journey si quieres pero en en Xaero's no se podrán ver los chunks privados
 
-## Mods SOLO server
-#### optimización
-- [Radon](https://modrinth.com/mod/radon)
-
 ### posibles adiciones:
 create:
 - [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
@@ -96,6 +90,8 @@ create:
 ## Otros (mods q no se pueden meter por varias razones y notas para mí)
 
 mods q se quedan fueura:
+- [ModernFix](https://modrinth.com/mod/modernfix) (daba error ?)
+- [Radon](https://modrinth.com/mod/radon) (no compatible con arclight)
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) (no disponible en aternos)
 - [Exploation](https://modrinth.com/mod/explorations) (no disponible en aternos)
 - [Rubidium](https://modrinth.com/mod/rubidium) (incompatible)
