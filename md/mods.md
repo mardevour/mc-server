@@ -16,7 +16,7 @@
 - [Quark](https://modrinth.com/mod/quark) (Integrated Dungeons and Structures)
 - [GottschCore](https://modrinth.com/mod/gottschcore) (Treasure2)
 - [Platform](https://modrinth.com/mod/platform) (CaveBiomeAPI)
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) ??
+<!-- - [Cloth Config API](https://modrinth.com/mod/cloth-config) ?? -->
 
 #### optimización:
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
