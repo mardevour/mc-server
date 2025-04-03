@@ -74,11 +74,12 @@
 #### varios
 - [Chat Heads](https://modrinth.com/mod/chat-heads)
 - [Appleskin](https://modrinth.com/mod/appleskin)
-- [Zoom](https://modrinth.com/mod/zume)
+- [Zoom](https://modrinth.com/mod/zume) 
 - [JEI](https://modrinth.com/mod/jei)
 - [Amber](https://modrinth.com/mod/amber-jade)
 
 ### posibles adiciones:
+- [Custom NPCs](https://modrinth.com/mod/customnpcs_) **
 create:
 - [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
